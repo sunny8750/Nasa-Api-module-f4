@@ -1,0 +1,33 @@
+
+#search-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 20px 0;
+}
+
+#search-input {
+	margin-left: 10px;
+}
+
+#current-image-container {
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+#current-image-container img {
+	max-width: 100%;
+}
+
+#search-history {
+	list-style: none;
+    cursor: pointer;
+}
+#headingpic{
+    margin-left: 1em;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
